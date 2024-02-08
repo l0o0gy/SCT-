@@ -14,7 +14,7 @@ console.log(i);
 for (var i=2; i<11; i++){
     console.log(i,'1st loop');
     for (var j=10; j>1; j--){
-      console.log(j,'second loop');
+      console.log(j,'2nd loop');
     }
 }
 var day=5
